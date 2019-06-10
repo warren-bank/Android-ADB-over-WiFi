@@ -1,0 +1,22 @@
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+        jcenter()
+        maven {url 'https://guardian.github.io/maven/repo-releases/'}
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.3.0'                         // https://mvnrepository.com/artifact/com.android.tools.build/gradle?repo=google
+        classpath 'com.google.android.gms:strict-version-matcher-plugin:1.1.0'   // https://mvnrepository.com/artifact/com.google.android.gms/strict-version-matcher-plugin
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+        jcenter()
+        maven {url 'https://guardian.github.io/maven/repo-releases/'}
+    }
+}
