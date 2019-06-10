@@ -30,7 +30,7 @@ Android app that toggles a __rooted__ device's Android Debug Bridge daemon (adbd
     ```bash
       adb connect <Android-IP>:5555
     ```
-  * disconnect Android device from computer
+  * detach Android device from USB cable
 * an [_alternative_](https://forum.xda-developers.com/showpost.php?p=7663668) way to connect a __rooted__ Android device to a computer over WiFi:
   * configure Android device on its command-line to switch its ADB daemon to use wireless mode:
     ```bash
@@ -50,6 +50,11 @@ Android app that toggles a __rooted__ device's Android Debug Bridge daemon (adbd
       stop adbd
       start adbd
     ```
+
+#### Screenshots:
+
+![stopped](./.etc/screenshots/1-stopped.png)
+![running](./.etc/screenshots/2-running.png)
 
 #### Notes:
 
