@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB Da. WiFi</string>
+    <string name="button_start">Jedan početak.</string>
+    <string name="button_stop">Jedna stanica.</string>
+    <string name="message_not_wireless">ADBd Ne radi u bežičnom režimu..</string>
+    <string name="message_wireless">ADBd Ide u bežičnom režimu..</string>
+    <string name="message_not_connected">Jedan nije povezan sa mnom. WiFi mreža..</string>
+    <string name="message_connected">Stupite u kontakt.:</string>
+</resources>

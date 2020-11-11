@@ -1,0 +1,11 @@
+{
+  "name": "@warren-bank/Android-ADB-over-WiFi",
+  "private": true,
+  "license": "GPL-2.0",
+  "devDependencies": {
+    "@warren-bank/translate-android-strings": "^1.7.3"
+  },
+  "scripts": {
+    "translate": "node_modules/.bin/translate-android-strings -i \"en\" -f \"android-studio-project/ADB-over-WiFi/src/main/res/values/strings.xml\" -d \"android-studio-project/ADB-over-WiFi/src/main/res\" -m --na --nc --nw -b \"ADBd?\" -b \"WiFi\""
+  }
+}

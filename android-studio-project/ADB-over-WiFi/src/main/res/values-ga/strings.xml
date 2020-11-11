@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB níos mó WiFi</string>
+    <string name="button_start">Tosaigh</string>
+    <string name="button_stop">Stop</string>
+    <string name="message_not_wireless">ADBd nach bhfuil ag rith i mód gan sreang.</string>
+    <string name="message_wireless">ADBd Tá ag rith i mód gan sreang.</string>
+    <string name="message_not_connected">Gan ceangal le WiFi líonra.</string>
+    <string name="message_connected">Ceangail le hiomlán:</string>
+</resources>

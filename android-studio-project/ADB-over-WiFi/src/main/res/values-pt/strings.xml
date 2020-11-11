@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB over WiFi</string>
+    <string name="button_start">Início</string>
+    <string name="button_stop">Parar</string>
+    <string name="message_not_wireless">ADBd não está rodando no modo wireless.</string>
+    <string name="message_wireless">ADBd está em execução no modo wireless.</string>
+    <string name="message_not_connected">Não conectado a WiFi rede.</string>
+    <string name="message_connected">Conectar remotamente:</string>
+</resources>

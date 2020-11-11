@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB fuq WiFi</string>
+    <string name="button_start">Bidu</string>
+    <string name="button_stop">Waqfien</string>
+    <string name="message_not_wireless">ADBd ma tkunx qed taħdem f\'modalità mingħajr fili.</string>
+    <string name="message_wireless">ADBd tkun qed taħdem fil-modalità mingħajr fili.</string>
+    <string name="message_not_connected">Mhux konnessi ma \' WiFi netwerk.</string>
+    <string name="message_connected">Qabbad remotament:</string>
+</resources>

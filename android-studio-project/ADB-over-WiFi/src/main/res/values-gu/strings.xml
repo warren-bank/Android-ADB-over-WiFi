@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB ઉપર WiFi</string>
+    <string name="button_start">શરૂઆત</string>
+    <string name="button_stop">બંધ કરો</string>
+    <string name="message_not_wireless">ADBd વાયરલેસ સ્થિતિમાં ચાલી રહ્યુ નથી.</string>
+    <string name="message_wireless">ADBd વાયરલેસ સ્થિતિમાં ચાલી રહ્યુ છે.</string>
+    <string name="message_not_connected">સાથે જોડાયેલ નથી WiFi નેટવર્ક.</string>
+    <string name="message_connected">દૂરસ્થ રીતે જોડાવો:</string>
+</resources>

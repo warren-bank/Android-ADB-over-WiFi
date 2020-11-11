@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB 过了 WiFi</string>
+    <string name="button_start">开始</string>
+    <string name="button_stop">停止</string>
+    <string name="message_not_wireless">ADBd 未以无线方式运行.</string>
+    <string name="message_wireless">ADBd 正在以无线方式运行.</string>
+    <string name="message_not_connected">未连接至 WiFi 网络.</string>
+    <string name="message_connected">远程连接:</string>
+</resources>

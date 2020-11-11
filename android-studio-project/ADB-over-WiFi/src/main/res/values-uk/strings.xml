@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB Over WiFi</string>
+    <string name="button_start">Почати</string>
+    <string name="button_stop">Зупинка</string>
+    <string name="message_not_wireless">ADBd не запущено у бездротовому режимі.</string>
+    <string name="message_wireless">ADBd працює у бездротовому режимі.</string>
+    <string name="message_not_connected">Не з \' єднано з WiFi мережа.</string>
+    <string name="message_connected">З \' єднатися:</string>
+</resources>

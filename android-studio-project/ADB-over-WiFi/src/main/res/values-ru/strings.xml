@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB по сравнению с WiFi</string>
+    <string name="button_start">Начало</string>
+    <string name="button_stop">Остановить</string>
+    <string name="message_not_wireless">ADBd не работает в беспроводном режиме.</string>
+    <string name="message_wireless">ADBd работает в беспроводном режиме.</string>
+    <string name="message_not_connected">Не подключено к WiFi сеть.</string>
+    <string name="message_connected">Удаленное соединение:</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB オーバー WiFi</string>
+    <string name="button_start">スタート</string>
+    <string name="button_stop">停止</string>
+    <string name="message_not_wireless">ADBd ワイヤレス・モードで実行されていない.</string>
+    <string name="message_wireless">ADBd ワイヤレス・モードで実行中.</string>
+    <string name="message_not_connected">未接続 WiFi ネットワーク.</string>
+    <string name="message_connected">リモートで接続:</string>
+</resources>

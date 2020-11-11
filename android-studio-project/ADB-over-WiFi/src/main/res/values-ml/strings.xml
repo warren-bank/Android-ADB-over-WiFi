@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB അവസാനിപ്പിച്ചു WiFi</string>
+    <string name="button_start">തുടങ്ങുക</string>
+    <string name="button_stop">നിര്ത്തുക</string>
+    <string name="message_not_wireless">ADBd വയർലെസ് രീതിയില് പ്രവര്ത്തിക്കുവാന് പോകുന്നില്ല.</string>
+    <string name="message_wireless">ADBd വയർലെസ് മോഡിലാണ് ഓടുന്നത്..</string>
+    <string name="message_not_connected">ബന്ധപ്പെടുത്തിയിട്ടില്ല WiFi ശൃംഖല.</string>
+    <string name="message_connected">ദൂരം കണക്ട് ചെയ്യുക:</string>
+</resources>

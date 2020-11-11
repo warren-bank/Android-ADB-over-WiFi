@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB ওভার WiFi</string>
+    <string name="button_start">আরম্ভ</string>
+    <string name="button_stop">থামাও</string>
+    <string name="message_not_wireless">ADBd বেতার মোডে চলছে না.</string>
+    <string name="message_wireless">ADBd বেতার মোডে চলছে.</string>
+    <string name="message_not_connected">সংযুক্ত নয় WiFi নেটওয়ার্ক.</string>
+    <string name="message_connected">দূরবর্তী সংযোগ:</string>
+</resources>

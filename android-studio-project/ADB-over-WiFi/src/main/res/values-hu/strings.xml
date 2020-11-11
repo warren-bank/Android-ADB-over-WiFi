@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB Felett WiFi</string>
+    <string name="button_start">Indítás</string>
+    <string name="button_stop">Állj</string>
+    <string name="message_not_wireless">ADBd Nem fut vezeték nélküli módban.</string>
+    <string name="message_wireless">ADBd Vezeték nélküli módban fut.</string>
+    <string name="message_not_connected">Nincs csatlakoztatva WiFi Hálózat.</string>
+    <string name="message_connected">Csatlakozás távolról:</string>
+</resources>

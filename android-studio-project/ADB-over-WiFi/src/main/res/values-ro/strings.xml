@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB peste WiFi</string>
+    <string name="button_start">Pornire</string>
+    <string name="button_stop">Oprire</string>
+    <string name="message_not_wireless">ADBd nu rulează în mod fără fir.</string>
+    <string name="message_wireless">ADBd rulează în modul fără fir.</string>
+    <string name="message_not_connected">Neconectat la WiFi reţea.</string>
+    <string name="message_connected">Conectare la distanţă:</string>
+</resources>

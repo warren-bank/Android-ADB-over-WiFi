@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB పైగా WiFi</string>
+    <string name="button_start">ప్రారంభం</string>
+    <string name="button_stop">ఆపు</string>
+    <string name="message_not_wireless">ADBd వైర్లెస్ మోడ్లో నడుస్తున్న లేదు.</string>
+    <string name="message_wireless">ADBd వైర్లెస్ మోడ్లో నడుస్తోంది.</string>
+    <string name="message_not_connected">అనుసంధానించబడలేదు WiFi నెట్వర్క్.</string>
+    <string name="message_connected">(e) ను తీసివేయుము:</string>
+</resources>

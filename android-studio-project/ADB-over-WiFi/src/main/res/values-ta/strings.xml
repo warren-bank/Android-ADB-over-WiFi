@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB மேல் WiFi</string>
+    <string name="button_start">ஆரம்பம்</string>
+    <string name="button_stop">நிறுத்து</string>
+    <string name="message_not_wireless">ADBd வலைப்பதிவு முறையில் இயங்கவில்லை.</string>
+    <string name="message_wireless">ADBd வலைப்பதிவு முறையில் இயங்குகிறது.</string>
+    <string name="message_not_connected">இணைக்கப்படவில்லை WiFi வலைப்பதிவு.</string>
+    <string name="message_connected">தூரத்தை இணை:</string>
+</resources>

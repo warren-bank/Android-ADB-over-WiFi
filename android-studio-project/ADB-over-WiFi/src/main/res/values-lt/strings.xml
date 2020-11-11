@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB daugiau nei WiFi</string>
+    <string name="button_start">Pradėti</string>
+    <string name="button_stop">Stabdyti</string>
+    <string name="message_not_wireless">ADBd neveikia belaidžio ryšio režimu.</string>
+    <string name="message_wireless">ADBd veikia bevielio režimu.</string>
+    <string name="message_not_connected">Neprijungtas prie WiFi Tinklo.</string>
+    <string name="message_connected">Prisijungti nuotoliniu būdu:</string>
+</resources>

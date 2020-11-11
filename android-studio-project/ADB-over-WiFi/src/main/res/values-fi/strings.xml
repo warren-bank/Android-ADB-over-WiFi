@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB Yli WiFi</string>
+    <string name="button_start">Aloita</string>
+    <string name="button_stop">Lopeta</string>
+    <string name="message_not_wireless">ADBd Ei ole ajossa langattomassa tilassa.</string>
+    <string name="message_wireless">ADBd On ajossa langattomassa tilassa.</string>
+    <string name="message_not_connected">Ei yhdistetty WiFi Verkko.</string>
+    <string name="message_connected">Muodosta etäyhteys:</string>
+</resources>

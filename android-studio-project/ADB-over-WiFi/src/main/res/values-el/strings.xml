@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB άνω. WiFi</string>
+    <string name="button_start">\' ρχισε</string>
+    <string name="button_stop">-Σταμάτα.</string>
+    <string name="message_not_wireless">ADBd δεν εκτελείται σε κατάσταση ασύρματης λειτουργίας..</string>
+    <string name="message_wireless">ADBd εκτελείται σε κατάσταση ασύρματης λειτουργίας.</string>
+    <string name="message_not_connected">Μη συνδεδεμένη με: WiFi δίκτυο:.</string>
+    <string name="message_connected">Σύνδεση εξ αποστάσεως:</string>
+</resources>

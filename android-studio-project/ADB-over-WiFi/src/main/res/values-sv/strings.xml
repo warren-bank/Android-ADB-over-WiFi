@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB över WiFi</string>
+    <string name="button_start">Start</string>
+    <string name="button_stop">Stanna!</string>
+    <string name="message_not_wireless">ADBd körs inte i trådlöst läge.</string>
+    <string name="message_wireless">ADBd körs i trådlöst läge.</string>
+    <string name="message_not_connected">Inte ansluten till WiFi nätverk.</string>
+    <string name="message_connected">Anslut fjärranslutning:</string>
+</resources>

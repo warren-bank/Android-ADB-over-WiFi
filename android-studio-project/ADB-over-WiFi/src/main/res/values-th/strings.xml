@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB มากกว่า WiFi</string>
+    <string name="button_start">เริ่มต้น</string>
+    <string name="button_stop">หยุด</string>
+    <string name="message_not_wireless">ADBd ไม่ได้กำลังรันในโหมดไร้สาย.</string>
+    <string name="message_wireless">ADBd กำลังรันในโหมดไร้สาย.</string>
+    <string name="message_not_connected">ไม่ได้เชื่อมต่อกับ WiFi Network (เครือข่าย.</string>
+    <string name="message_connected">เชื่อมต่อรีโมต:</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB over WiFi</string>
+    <string name="button_start">Start</string>
+    <string name="button_stop">Stop!</string>
+    <string name="message_not_wireless">ADBd kører ikke i trådløs tilstand.</string>
+    <string name="message_wireless">ADBd kører i trådløs tilstand.</string>
+    <string name="message_not_connected">Ikke tilsluttet til WiFi netværk.</string>
+    <string name="message_connected">Opret forbindelse eksternt:</string>
+</resources>

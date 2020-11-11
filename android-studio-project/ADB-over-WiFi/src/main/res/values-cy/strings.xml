@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB dros ben WiFi</string>
+    <string name="button_start">Cychwyn</string>
+    <string name="button_stop">Atal</string>
+    <string name="message_not_wireless">ADBd nid yw\'n rhedeg mewn modd diwifr.</string>
+    <string name="message_wireless">ADBd yn rhedeg mewn modd diwifr.</string>
+    <string name="message_not_connected">Heb gysylltu WiFi rhwydwaith.</string>
+    <string name="message_connected">Cysylltu o bell:</string>
+</resources>

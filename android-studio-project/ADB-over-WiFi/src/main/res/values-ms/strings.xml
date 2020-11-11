@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB ke atas WiFi</string>
+    <string name="button_start">Mula</string>
+    <string name="button_stop">Berhenti!</string>
+    <string name="message_not_wireless">ADBd tidak berjalan dalam mod tanpa wayar.</string>
+    <string name="message_wireless">ADBd Berjalan dalam mod tanpa wayar.</string>
+    <string name="message_not_connected">Tidak bersambung dengan WiFi rangkaian.</string>
+    <string name="message_connected">Sambung jauh:</string>
+</resources>

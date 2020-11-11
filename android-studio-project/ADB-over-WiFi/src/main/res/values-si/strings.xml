@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB ඉවරයි. WiFi</string>
+    <string name="button_start">ආරම්භ කරන්න</string>
+    <string name="button_stop">නවත්වන්න</string>
+    <string name="message_not_wireless">ADBd රැහැන් රහිත ක්රමයේ ධාවනය නොවේ.</string>
+    <string name="message_wireless">ADBd රැහැන් රහිත ක්රමයේදී ක්රියාත්මක වේ.</string>
+    <string name="message_not_connected">සම්බන්ධ නොවේ WiFi ජාලය.</string>
+    <string name="message_connected">දුරස්ථව සම්බන්ධ කරන්න:</string>
+</resources>

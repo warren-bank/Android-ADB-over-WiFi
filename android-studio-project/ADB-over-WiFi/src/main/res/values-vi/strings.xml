@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB Qua WiFi</string>
+    <string name="button_start">Bắt đầu</string>
+    <string name="button_stop">Dừng lại</string>
+    <string name="message_not_wireless">ADBd không chạy trong chế độ không dây.</string>
+    <string name="message_wireless">ADBd đang chạy trong chế độ không dây.</string>
+    <string name="message_not_connected">Không kết nối vào WiFi mạng.</string>
+    <string name="message_connected">Kết nối từ:</string>
+</resources>

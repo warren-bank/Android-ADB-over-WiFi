@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB konec WiFi</string>
+    <string name="button_start">Zaženi</string>
+    <string name="button_stop">Zaustavi</string>
+    <string name="message_not_wireless">ADBd se ne izvaja v brezžinem načinu.</string>
+    <string name="message_wireless">ADBd se izvaja v brezžinem načinu.</string>
+    <string name="message_not_connected">Ni povezan z WiFi omrežje.</string>
+    <string name="message_connected">Vzpostavi povezavo oddaljeno:</string>
+</resources>

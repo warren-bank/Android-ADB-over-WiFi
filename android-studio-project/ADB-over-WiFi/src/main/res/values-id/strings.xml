@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB Over WiFi</string>
+    <string name="button_start">Mulai</string>
+    <string name="button_stop">Hentikan</string>
+    <string name="message_not_wireless">ADBd tidak berjalan dalam mode nirkabel.</string>
+    <string name="message_wireless">ADBd sedang berjalan dalam mode nirkabel.</string>
+    <string name="message_not_connected">Tidak terhubung ke WiFi jaringan.</string>
+    <string name="message_connected">Hubungkan jarak jauh:</string>
+</resources>

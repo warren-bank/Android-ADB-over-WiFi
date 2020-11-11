@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB üzerinden WiFi</string>
+    <string name="button_start">Başlat</string>
+    <string name="button_stop">Durdur</string>
+    <string name="message_not_wireless">ADBd kablosuz modda çalışmıyor.</string>
+    <string name="message_wireless">ADBd kablosuz modda çalışıyor.</string>
+    <string name="message_not_connected">Buna bağlı değil WiFi ağ.</string>
+    <string name="message_connected">Uzaktan bağlan:</string>
+</resources>

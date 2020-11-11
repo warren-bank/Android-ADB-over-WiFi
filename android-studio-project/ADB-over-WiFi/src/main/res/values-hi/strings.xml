@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB पूरा WiFi</string>
+    <string name="button_start">प्रारंभ</string>
+    <string name="button_stop">रोकें</string>
+    <string name="message_not_wireless">ADBd बेतार मोड में चल रहा नहीं है.</string>
+    <string name="message_wireless">ADBd वायरलेस मोड में चल रहा है.</string>
+    <string name="message_not_connected">इससे संबंधित नहीं है WiFi नेटवर्क.</string>
+    <string name="message_connected">दूरस्थ रूप से कनेक्ट करें:</string>
+</resources>

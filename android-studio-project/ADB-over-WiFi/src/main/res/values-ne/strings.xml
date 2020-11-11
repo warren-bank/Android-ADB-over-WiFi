@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB माथि WiFi</string>
+    <string name="button_start">सुरु गर्नुहोस्</string>
+    <string name="button_stop">रोक्नुहोस्</string>
+    <string name="message_not_wireless">ADBd ताररहित मोडमा चलिरहेको छैन.</string>
+    <string name="message_wireless">ADBd ताररहित मोडमा चलिरहेको छ.</string>
+    <string name="message_not_connected">जडान छैन WiFi सञ्जाल.</string>
+    <string name="message_connected">टाढाबाट जडान गर्नुहोस्:</string>
+</resources>

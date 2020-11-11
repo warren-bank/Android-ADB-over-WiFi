@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB preko WiFi</string>
+    <string name="button_start">Pokreni</string>
+    <string name="button_stop">Stani!</string>
+    <string name="message_not_wireless">ADBd ne izvodi se u bežični način.</string>
+    <string name="message_wireless">ADBd izvodi se u bežični način.</string>
+    <string name="message_not_connected">Nije povezan s WiFi mreža.</string>
+    <string name="message_connected">Udaljeno povezivanje:</string>
+</resources>

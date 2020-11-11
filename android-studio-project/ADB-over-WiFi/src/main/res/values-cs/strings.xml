@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB nad WiFi</string>
+    <string name="button_start">Začátek</string>
+    <string name="button_stop">Zastavit</string>
+    <string name="message_not_wireless">ADBd není spuštěno v bezdrátovém režimu.</string>
+    <string name="message_wireless">ADBd běží v bezdrátovém režimu.</string>
+    <string name="message_not_connected">Nepřipojeno k WiFi síť.</string>
+    <string name="message_connected">Připojit vzdáleně:</string>
+</resources>

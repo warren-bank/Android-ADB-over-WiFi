@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB Üle WiFi</string>
+    <string name="button_start">Algus</string>
+    <string name="button_stop">Peata</string>
+    <string name="message_not_wireless">ADBd ei tööta traadita režiimis.</string>
+    <string name="message_wireless">ADBd töötab traadita režiimis.</string>
+    <string name="message_not_connected">Pole ühendatud WiFi network.</string>
+    <string name="message_connected">Kaugühenduse loomine:</string>
+</resources>

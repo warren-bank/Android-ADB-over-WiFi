@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB , WiFi</string>
+    <string name="button_start">Sākt</string>
+    <string name="button_stop">Apstāties</string>
+    <string name="message_not_wireless">ADBd nedarbojas bezvadu režīmā..</string>
+    <string name="message_wireless">ADBd darbojas bezvadu režīmā.</string>
+    <string name="message_not_connected">Nav savienots ar WiFi tīkla.</string>
+    <string name="message_connected">Pieslēgties attālināti:</string>
+</resources>

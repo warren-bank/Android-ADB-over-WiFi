@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB over WiFi</string>
+    <string name="button_start">Starten</string>
+    <string name="button_stop">Stoppen</string>
+    <string name="message_not_wireless">ADBd is niet actief in draadloze modus.</string>
+    <string name="message_wireless">ADBd wordt uitgevoerd in de draadloze modus.</string>
+    <string name="message_not_connected">Niet verbonden met WiFi netwerk.</string>
+    <string name="message_connected">Op afstand verbinden:</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB מעל WiFi</string>
+    <string name="button_start">התחלה</string>
+    <string name="button_stop">עצירה</string>
+    <string name="message_not_wireless">ADBd אינו רץ במצב אלחוטי.</string>
+    <string name="message_wireless">ADBd רץ במצב אלחוטי.</string>
+    <string name="message_not_connected">לא מחובר ל - WiFi רשת.</string>
+    <string name="message_connected">התחברות מרחוק:</string>
+</resources>

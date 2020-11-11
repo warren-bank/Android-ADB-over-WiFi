@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB أكثر WiFi</string>
+    <string name="button_start">بدء</string>
+    <string name="button_stop">! توقف</string>
+    <string name="message_not_wireless">ADBd لا يتم تشغيله في نمط لاسلكي.</string>
+    <string name="message_wireless">ADBd يتم تشغيله في نمط لاسلكي.</string>
+    <string name="message_not_connected">غير متصل ب# WiFi شبكة اتصالات.</string>
+    <string name="message_connected">الاتصال عن بعد:</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADB اوور WiFi</string>
+    <string name="button_start">آغاز</string>
+    <string name="button_stop">بند کرو</string>
+    <string name="message_not_wireless">ADBd وائرلیس موڈ میں نہیں چل رہا ہے.</string>
+    <string name="message_wireless">ADBd وائرلیس موڈ میں چل رہا ہے.</string>
+    <string name="message_not_connected">سے منسلک نہیں WiFi نیٹ ورک.</string>
+    <string name="message_connected">دور سے دور:</string>
+</resources>
