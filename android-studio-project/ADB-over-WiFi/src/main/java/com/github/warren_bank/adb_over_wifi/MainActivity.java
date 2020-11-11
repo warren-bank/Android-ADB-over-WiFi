@@ -46,16 +46,17 @@ public class MainActivity extends Activity {
         String ip, msg;
         int btn;
         if (is_wifi_mode) {
-            ip  = Shell.getWlanIpAddress();
-            msg = (ip == null)
-                ?  "ADBd is running in wireless mode.\n\nNot connected to WiFi network."
-                : ("ADBd is running in wireless mode.\n\nConnect remotely:\n  adb connect " + ip + ":" + default_adbd_port)
+            ip   = Shell.getWlanIpAddress();
+            msg  = getString(R.string.message_wireless) + "\n\n";
+            msg += (ip == null)
+                ?  getString(R.string.message_not_connected)
+                : (getString(R.string.message_connected) + "\n  " + getString(R.string.message_connection_url, ip, default_adbd_port))
             ;
-            btn = R.string.stop;
+            btn = R.string.button_stop;
         }
         else {
-            msg = "ADBd is not running in wireless mode.";
-            btn = R.string.start;
+            msg = getString(R.string.message_not_wireless);
+            btn = R.string.button_start;
         }
 
         message.setText(msg);

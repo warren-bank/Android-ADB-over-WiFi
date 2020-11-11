@@ -2,6 +2,12 @@
 <resources>
     <string name="app_name">ADB over WiFi</string>
 
-    <string name="start">Start</string>
-    <string name="stop">Stop</string>
+    <string name="button_start">Start</string>
+    <string name="button_stop">Stop</string>
+
+    <string name="message_not_wireless">ADBd is not running in wireless mode.</string>
+    <string name="message_wireless">ADBd is running in wireless mode.</string>
+    <string name="message_not_connected">Not connected to WiFi network.</string>
+    <string name="message_connected">Connect remotely:</string>
+    <string translatable="false" name="message_connection_url">adb connect %1$s:%2$d</string>
 </resources>
