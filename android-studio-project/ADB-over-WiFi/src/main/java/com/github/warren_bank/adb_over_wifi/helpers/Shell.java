@@ -69,6 +69,9 @@ public class Shell {
             Log.e(TAG, e.getMessage(), e);
         } finally {
             closeSilently(outputStream, stdout, stderr);
+            if (su != null) {
+                su.destroy();
+            }
         }
         return res;
     }
@@ -96,6 +99,9 @@ public class Shell {
             Log.e(TAG, e.getMessage(), e);
         } finally {
             closeSilently(outputStream);
+            if (su != null) {
+                su.destroy();
+            }
         }
     }
 
